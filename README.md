@@ -2,6 +2,7 @@
 <h3 align="center">an entrepreneur and aspiring web developer</h3>
 
 - 🔭 I’m currently completing The Odin Project Front-End Developer Program and the Intermediate portion of UDemy's 100 days of Python.
+- 📌 I'm feeling confident about my imtermediate Python skills.
   
 - 🌱 I’m currently learning **Javascript, CSS, and Python**
 
